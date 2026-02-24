@@ -1,0 +1,1 @@
+this model determins how much time is saved when incrementing acceleration. it models after a formula one car and the second loop accounts drag force to find a netfore and work out what the time saved would be in an non ideal world.
